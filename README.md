@@ -31,7 +31,7 @@ d     = The right knight (with a green square) <br />
 1     = The left rook (without a green square) <br />
 3     = The right rook (with a green square) <br />
 space = Bishops <br />
-2     = cansel premoves <br />
+2     = cancel premoves <br />
 4     = offer rematch <br />
 (You can change keys to any other keys) <br />
 
